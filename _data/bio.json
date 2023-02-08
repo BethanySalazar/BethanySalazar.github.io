@@ -17,19 +17,20 @@
   },
   "interests": [
     { "name": "UI/UX Design" },
-    { "name": "Web Development" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Responsive Design" },
+    { "name": "Cross-Browser/Application Development" },
+    { "name": "Software Development" },
+    { "name": "AGILE" },
+    { "name": "API" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Javascript", "HTML", "CSS", "DOM minipulation","Python", "C", "C++", "Java"]
+      "keywords": [ "Javascript", "HTML", "CSS", "DOM minipulation","Python", "C", "C++", "Java", "Script"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "React.js", "VS Code", "Node.js"]
+      "keywords": [ "MacOS", "Git/GitHub", "React.js", "VS Code", "Node.js","NPM Libraries"]
     }
   ],
   "education": [
@@ -40,32 +41,48 @@
       "startDate": "2016-08-01",
       "endDate": "2022-05-01",
       "courses": [
+        "Advance Systems Engineering", "Enterprise Software", "Large Scale Data Management"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Jivasoft",
+      "position": "Frontend Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Junior Frontend Developer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Create dynamic, functional and reusable components",
+        "Phasing in new development using React.js and create foundational code structures."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Intel Corportaion",
+      "position": "Computer Science Intern",
+      "website": "",
+      "startDate": "2016-05-01",
+      "endDate": "2021-08-11",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Internship for 3 summers. Learned basics of python, Django, Java, Excel, Android Studio.",
+        "Worked on a program to accurately identify animals using machine learning in C and IoT.",
+        "Tested different CPU configurations with windows apps to check performance on different number of cores. Used benchmarks, parallel programming, and Intel Software store to check diagnostics.",
+        "Received Manager training."
+      ]
+    },
+    {
+      "company": "Miriam's PartyLand / SoCo PartyLand",
+      "position": "Manager / Web Developer",
+      "website": "",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Family run business that sells Mexican goods for parties, weddings and quinceneras.",
+      "highlights": [
+        "Cashier and customer service representative",
+        "Managed and oversaw customer contracts", 
+        "Developing React.js web application."
       ]
     }
   ],
@@ -98,16 +115,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "Hackers Choice",
-      "date": "2021",
-      "awarder": "University of Texas at San Antonio",
-      "summary": "My team won hackers choise in Rowdy Hacks 2021.  See my portfolio site for more details."
+      "title": "Hackers Choice - EURODITE",
+      "date": "2022-Present",
+      "awarder": "UTSA",
+      "summary": "Won Hackers Choice. Created a functional App called Erudite that keeps track of schoolwork making getting your work done rewarding and motivating treating it as a game."
     }
   ],
   "references": [
