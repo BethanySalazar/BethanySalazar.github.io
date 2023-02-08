@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Bethany Salazar",
+    "label": "Frontend Developer",
+    "picture": "https://github.com/BethanySalazar.png",
+    "email": "bethanysalazar2007@hotmail.com",
+    "phone": "512-363-6887",
+    "website": "https://BethanySalazar.github.io",
+    "summary": "I am currently working for Jivasoft as a Frontend Developer. I completed my B.S. in Computer Science with concentrations in Software Engineering, Cloud Computing and Data Science in the University of Texas at San Antonio.",
+    "location": { "address": "", "postalCode": "78230", "city": "San Antonio", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "BethanySalazar", "url": "http://github.com/BethanySalazar" },
+      { "network": "linkedin", "username": "Bethany Salazar", "url": "https://www.linkedin.com/in/bethany-m-salazar/" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "UI/UX Design" },
+    { "name": "Web Development" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
@@ -25,20 +25,20 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Javascript", "HTML", "CSS", "DOM minipulation","Python", "C", "C++", "Java"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "React.js", "VS Code", "Node.js"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Texas, San Antonio, TX",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2016-08-01",
+      "endDate": "2022-05-01",
       "courses": [
       ]
     }
@@ -104,10 +104,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hackers Choice",
+      "date": "2021",
+      "awarder": "University of Texas at San Antonio",
+      "summary": "My team won hackers choise in Rowdy Hacks 2021.  See my portfolio site for more details."
     }
   ],
   "references": [
