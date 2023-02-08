@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Bethany Salazar",
+    "label": "Frontend Developer",
+    "picture": "https://github.com/BethanySalazar.png",
+    "email": "bethanysalazar2007@hotmail.com",
+    "phone": "512-363-6887",
+    "website": "https://BethanySalazar.github.io",
+    "summary": "I am currently working for Jivasoft as a Frontend Developer. I completed my B.S. in Computer Science with concentrations in Software Engineering, Cloud Computing and Data Science in the University of Texas at San Antonio.",
+    "location": { "address": "", "postalCode": "78230", "city": "San Antonio", "countryCode": "USA", "region": "Texas" },
+    "profiles": [
+      { "network": "github", "username": "BethanySalazar", "url": "http://github.com/BethanySalazar" },
+      { "network": "linkedin", "username": "Bethany Salazar", "url": "https://www.linkedin.com/in/bethany-m-salazar/" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/" }
+    ]
+  },
+  "interests": [
+    { "name": "UI/UX Design" },
+    { "name": "Responsive Design" },
+    { "name": "Cross-Browser/Application Development" },
+    { "name": "Software Development" },
+    { "name": "AGILE" },
+    { "name": "API" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript", "HTML", "CSS", "DOM minipulation","Python", "C", "C++", "Java", "Script"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "React.js", "VS Code", "Node.js","NPM Libraries"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas, San Antonio, TX",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2016-08-01",
+      "endDate": "2022-05-01",
+      "courses": [
+        "Advance Systems Engineering", "Enterprise Software", "Large Scale Data Management"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Jivasoft",
+      "position": "Frontend Developer",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "Junior Frontend Developer",
+      "highlights": [
+        "Create dynamic, functional and reusable components",
+        "Phasing in new development using React.js and create foundational code structures."
+      ]
+    },
+    {
+      "company": "Intel Corportaion",
+      "position": "Computer Science Intern",
+      "website": "",
+      "startDate": "2016-05-01",
+      "endDate": "2021-08-11",
+      "summary": "",
+      "highlights": [
+        "Internship for 3 summers. Learned basics of python, Django, Java, Excel, Android Studio.",
+        "Worked on a program to accurately identify animals using machine learning in C and IoT.",
+        "Tested different CPU configurations with windows apps to check performance on different number of cores. Used benchmarks, parallel programming, and Intel Software store to check diagnostics.",
+        "Received Manager training."
+      ]
+    },
+    {
+      "company": "Miriam's PartyLand / SoCo PartyLand",
+      "position": "Manager / Web Developer",
+      "website": "",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Family run business that sells Mexican goods for parties, weddings and quinceneras.",
+      "highlights": [
+        "Cashier and customer service representative",
+        "Managed and oversaw customer contracts", 
+        "Developing React.js web application."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hackers Choice - EURODITE",
+      "date": "2022-Present",
+      "awarder": "UTSA",
+      "summary": "Won Hackers Choice. Created a functional App called Erudite that keeps track of schoolwork making getting your work done rewarding and motivating treating it as a game."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
